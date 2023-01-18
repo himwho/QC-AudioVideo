@@ -1,0 +1,7 @@
+[submodule "Modules/filmstro_ffmpeg"]
+	path = Modules/filmstro_ffmpeg
+	url = git@github.com:filmstro/filmstro_ffmpeg.git
+[submodule "JUCE"]
+	path = JUCE
+	url = https://github.com/juce-framework/JUCE
+	branch = 6.1.6
